@@ -7,3 +7,5 @@
 ### Other Pinned Repos
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=daily-reading&repo=daily-reading)](https://github.com/daily-reading/daily-reading)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=yfd-feer&repo=frontend-reading)](https://github.com/yfd-feer/frontend-reading/issues)
