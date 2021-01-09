@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=highestop&layout=compact)
 
-### Other Pinned Repos
+### External Pinned Repos
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=yfd-feer&repo=frontend-reading)](https://github.com/yfd-feer/frontend-reading/issues)
 
