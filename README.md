@@ -12,8 +12,6 @@
 
 <img src="./src/my_wechat_official.jpg" width="192">
 
-<img src="./src/my_wechat_channel.jpg" width="192">
-
 ### Follow Me on [Instagram](https://www.instagram.com/highestop_instalife/)
 
 <img src="./src/my_ins.jpg" width="192">
