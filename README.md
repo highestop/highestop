@@ -10,8 +10,8 @@
 
 ### Follow Me on Wechat
 
-<img src="./src/my_wechat_official.jpg" width="192">
+<img src="./public/my_wechat_official.jpg" width="192">
 
 ### Follow Me on [Instagram](https://www.instagram.com/highestop_instalife/)
 
-<img src="./src/my_ins.jpg" width="192">
+<img src="./public/my_ins.jpg" width="192">
