@@ -4,12 +4,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=highestop&layout=compact)
 
-## Follow Me on Wechat
+## Follow Me on [Instagram](https://www.instagram.com/highestop_instalife/), Wechat Subscription and Channel 👀
 
-<img src="./public/my_wechat_official.jpg" width="192">
-
-<img src="./public/my_wechat_channel.jpg" width="192">
-
-## Follow Me on [Instagram](https://www.instagram.com/highestop_instalife/)
-
-<img src="./public/my_ins.jpg" width="192">
+<div style="display:flex; flex-direction:row; align-items:flex-start;">
+  <img src="./public/my_ins.jpg" width="192">
+  <img src="./public/my_wechat_official.jpg" width="192">
+  <img src="./public/my_wechat_channel.jpg" width="192">
+</div>
