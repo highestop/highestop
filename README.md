@@ -5,7 +5,7 @@
 <!-- @deprecated -->
 <!--![](https://github-readme-stats.vercel.app/api?username=highestop&show_icons=true)-->
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=highestop)]((https://github.com/anuraghazra/github-readme-stats))
+<!--[![](https://github-readme-stats.vercel.app/api/top-langs/?username=highestop&layout=donut)]((https://github.com/anuraghazra/github-readme-stats))-->
 
 <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
